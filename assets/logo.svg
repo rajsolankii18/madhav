@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-label="Madhav Computers">
+  <rect width="48" height="48" rx="12" fill="#12395d"/>
+  <rect x="10" y="11" width="28" height="20" rx="2" fill="none" stroke="#f0b44a" stroke-width="3"/>
+  <path d="M18 37h12M24 31v6" fill="none" stroke="#f0b44a" stroke-width="3" stroke-linecap="round"/>
+</svg>
